@@ -23,7 +23,7 @@
 ![Image](https://github.com/user-attachments/assets/690ff717-6f55-4d60-8c7f-07efc9ecc208)
 - **各職員が自身の夏休みの動静を記入**  
 ![Image](https://github.com/user-attachments/assets/7bb55cc8-8554-48e1-b8f8-ca366b10654b)
-- **動静一覧表へ各職員の動静表を反映**
+- **動静一覧表へ各職員の動静表を反映**  
 ![Image](https://github.com/user-attachments/assets/76a002a2-2440-4a0c-8545-9fdadeff60cf)
 ## 工夫した点と課題
 ### 工夫した点
