@@ -18,7 +18,7 @@
 ## 利用方法
 - **当年度用の動静表元シートを作成**  
 年度変更、祝日と閉庁日の設定、全体の研修の日の記載等  
-![Image](https://github.com/user-attachments/assets/6223203b-0e4c-47f5-97c1-ede910fbb9b1)
+![Image](https://github.com/user-attachments/assets/b9616ff8-ec70-4ab4-b89f-d26f8773dc8c)
 - **各職員の個人シート作成**  
 ![Image](https://github.com/user-attachments/assets/cc5c0ec1-e30c-4f8e-a2a3-8019b300090b)
 ## 工夫した点と課題
