@@ -20,7 +20,7 @@
 年度変更、祝日と閉庁日の設定、全体の研修の日の記載等  
 ![Image](https://github.com/user-attachments/assets/b9616ff8-ec70-4ab4-b89f-d26f8773dc8c)
 - **各職員の個人シート作成**  
-![Image](https://github.com/user-attachments/assets/cc5c0ec1-e30c-4f8e-a2a3-8019b300090b)
+![Image](https://github.com/user-attachments/assets/ceb9bfe2-654f-4163-ab41-98c147e358a2)
 ## 工夫した点と課題
 ### 工夫した点
 それぞれの職員が自分の動静表を作成するために、元ファイルをコピーしてから作成しなくてもいいように、管理側で職員の名前がブック名に入った動静表の個人シートを作成しています。
