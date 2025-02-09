@@ -21,6 +21,8 @@
 ![Image](https://github.com/user-attachments/assets/b9616ff8-ec70-4ab4-b89f-d26f8773dc8c)
 - **各職員の個人シート作成**  
 ![Image](https://github.com/user-attachments/assets/690ff717-6f55-4d60-8c7f-07efc9ecc208)
+- **各職員が自身の夏休みの動静を記入**  
+
 ## 工夫した点と課題
 ### 工夫した点
 それぞれの職員が自分の動静表を作成するために、元ファイルをコピーしてから作成しなくてもいいように、管理側で職員の名前がブック名に入った動静表の個人シートを作成しています。
