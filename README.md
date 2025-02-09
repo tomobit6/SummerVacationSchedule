@@ -16,7 +16,8 @@
      - **祝日閉庁日設定：** 上記の祝日閉庁日設定と同じ。一覧表の祝日と閉庁日の背景色を変更します。
      - **個人シート取込：** 各職員が入力した動静表を取込み、学校内のすべての職員の動静を一覧に反映します。
 ## 利用方法
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3h0NmQ3OGJya3VkMzl2enJpenNnN2N5aWo4ejZidHFhM2pzOXYwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PgFTZk0qzunplizMOW/giphy.gif
+- 当年度用の動静表元シートを作成
+![Image](https://github.com/user-attachments/assets/6223203b-0e4c-47f5-97c1-ede910fbb9b1)
 ## 工夫した点と課題
 ### 工夫した点
 それぞれの職員が自分の動静表を作成するために、元ファイルをコピーしてから作成しなくてもいいように、管理側で職員の名前がブック名に入った動静表の個人シートを作成しています。
